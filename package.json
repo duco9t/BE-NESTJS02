@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@nestjs/common": "^11.0.1",
+<<<<<<< HEAD
     "@nestjs/config": "^4.0.3",
     "@nestjs/core": "^11.0.1",
     "@nestjs/jwt": "^11.0.2",
@@ -36,6 +37,12 @@
     "reflect-metadata": "^0.2.2",
     "rxjs": "^7.8.1",
     "typeorm": "^0.3.28"
+=======
+    "@nestjs/core": "^11.0.1",
+    "@nestjs/platform-express": "^11.0.1",
+    "reflect-metadata": "^0.2.2",
+    "rxjs": "^7.8.1"
+>>>>>>> be58504b98a72ac93880285f08a2b1a44d274f59
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.2.0",
@@ -43,11 +50,17 @@
     "@nestjs/cli": "^11.0.0",
     "@nestjs/schematics": "^11.0.0",
     "@nestjs/testing": "^11.0.1",
+<<<<<<< HEAD
     "@types/bcrypt": "^6.0.0",
     "@types/express": "^5.0.0",
     "@types/jest": "^30.0.0",
     "@types/node": "^22.10.7",
     "@types/passport-jwt": "^4.0.1",
+=======
+    "@types/express": "^5.0.0",
+    "@types/jest": "^30.0.0",
+    "@types/node": "^22.10.7",
+>>>>>>> be58504b98a72ac93880285f08a2b1a44d274f59
     "@types/supertest": "^6.0.2",
     "eslint": "^9.18.0",
     "eslint-config-prettier": "^10.0.1",
